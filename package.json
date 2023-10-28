@@ -1,0 +1,26 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "A Node Js Rest JS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Yogyata Nilkanth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.20.2",
+    "nodemon": "^2.0.22"
+  }
+}

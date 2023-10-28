@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "BackendBadgeYogyata",
+        "JWT_KEY": "secret"
+    }
+}
